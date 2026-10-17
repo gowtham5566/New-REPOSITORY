@@ -9,6 +9,7 @@ function Welcome() {
     <>
       <h1>Welcome to react</h1>
       <p>Start Learning React Today !</p>
+      <h1>One</h1>
     </>
   );
 }
